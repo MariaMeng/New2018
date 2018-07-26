@@ -70,28 +70,32 @@ public class FairiesAndWithes {
 
         FileWriter fw = new FileWriter(file);
 
-        for (int k = 0; k < n; k++) {
+        for (int k = 1; k <= n; k++) {
             int N = in.nextInt();
 
             int[][] matrix = new int[N][N];
 
             for (int j = 0 ;j < N; j++) {
                 for (int i = 0 ; i < N; i++) {
-                    int val = in.nextInt();
+
                     matrix[i][j] = in.nextInt();
 
                 }
             }
 
             ArrayList<Integer> tmpList = new ArrayList<>();
-            int[] res = new int[0];
+            int[] res = new int[1];
             int sum = 0;
             boolean[] visited = new boolean[N];
 
             findWays(matrix, N, 0, tmpList, res, sum, visited);
 
 
-            fw.write("Case #" + k + ": " + res[0] + '\n');
+            fw.write("Case #" + k + ": " + res[0]);
+
+            if (k != n) {
+                fw.write("\n");
+            }
         }
         fw.close();
     }
@@ -109,30 +113,29 @@ public class FairiesAndWithes {
         if (matrix == null || matrix.length == 0 || matrix[0].length == 0) return ;
 
         if (tmpList.size() >= 3) {
-            tmpList.sort(new Comparator<Integer>() {
-                @Override
-                public int compare(Integer o1, Integer o2) {
-                    return o1.intValue() - o2.intValue();
-                }
-            });
+            ArrayList<Integer> tmp = new ArrayList<>(tmpList);
+            Collections.sort(tmp);
 
-            if (sum > 2 * tmpList.get(tmpList.size() - 1)) {
+            if (sum > 2 * tmp.get(tmp.size() - 1)) {
                 res[0]++;
             }
         }
 
-        for (int i = 0; i < N; i++) {
+        for (int i = row; i < N; i++) {
             if (visited[i] == true) continue;
 
-            for (int j = row; j < N; j++) {
+            for (int j = i; j < N; j++) {
                 if (matrix[i][j] == 0) continue;
+                if (visited[j] == true) continue;
 
                 tmpList.add(matrix[i][j]);
                 visited[i] = true;
-                findWays(matrix, N, i, tmpList, res, sum + matrix[i][j], visited);
+                visited[j] = true;
+                findWays(matrix, N, i + 1, tmpList, res, sum + matrix[i][j], visited);
 
                 tmpList.remove(tmpList.size() - 1);
                 visited[i] = false;
+                visited[j] = false;
             }
         }
 

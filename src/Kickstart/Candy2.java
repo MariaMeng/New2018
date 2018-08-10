@@ -29,12 +29,12 @@ public class Candy2 {
             int O = in.nextInt();
             long D = in.nextLong();
 
-            long[] Sum = new long[N];
-            boolean[] odd = new boolean[N];
+            long[] SS = new long[N];
+            int[] SO = new int[N];
 
-            int x0 = in.nextInt();
+            long x0 = in.nextLong();
 
-            int x1 = in.nextInt();
+            long x1 = in.nextLong();
 
             int A = in.nextInt();
             int B = in.nextInt();
@@ -43,56 +43,50 @@ public class Candy2 {
             int M = in.nextInt();
             int L = in.nextInt();
 
-            Sum[0] = x0 + L;
-            Sum[1] = Sum[0] + x1 + L;
+            SS[0] = x0 + L;
+            SO[0] = (x0 % 2 == 0 ? 0 : 1);
+            SS[1] = SS[0] + x1 + L;
+            SO[1] = SO[0] + (x1 % 2 == 0 ? 0 : 1);
 
             for (int i = 2 ; i < N; i++) {
-                int x = (A * x1 + B * x0 + C) % M;
-                Sum[i] = Sum[i - 1] + x + L;
+                long x = (A * x1 + B * x0 + C) % M;
+                SS[i] = SS[i - 1] + x + L;
+                SO[i] = SO[i - 1] + (x % 2 == 0 ? 0 : 1);
 
-                if (Sum[i] % 2 != 0)
-                    odd[i] = true;
-
+                x0 = x1;
                 x1 = x;
-                x1 = x0;
             }
 
 
-            long res = findSum(Sum, odd, N, O, D);
+            long res = findSum(SS, SO, N, O, D);
 
-            fw.write("Case #" + k + ":");
+            fw.write("Case #" + k + ":" + (res == Long.MIN_VALUE ? "IMPOSSIBLE" : res));
             if (k != K)
                 fw.write("\n");
         }
-
 
         fw.close();
     }
 
 
-    public static long findSum(long[] Sum, boolean[] Odd, int N, int O, long D) {
-        if (Sum == null || Sum.length == 0) return -1;
+    public static long findSum(long[] SS, int[] SO, int N, int O, long D) {
+        if (SS == null || SO == null || SS.length == 0|| SO.length == 0) return Long.MIN_VALUE;
 
-        int left = 0, right = 0;
-        int odd = 0;
-        long sum = 0;
+        int left = 0, right = 1;
+        long sum = Long.MIN_VALUE;
 
         while (left < N) {
-            while (right < N && Sum[right] - Sum[left] <= D && odd < O) {
-                if (Odd[right]) {
-                    odd++;
-                }
-
+            while (right < N && SO[right] - SO[left] <= O && SS[right] - SS[left] <= D ) {
                 right++;
             }
 
-            if (Sum[right - 1] - Sum[left] > sum){
-                sum = Sum[right - 1] - Sum[left];
-            }
 
-            if (Odd[left])
-                odd--;
+            if (right - 1 > left)
+                sum = Math.max(sum, SS[right - 1] - SS[left]);
+
             left++;
+            if (right - 1 > left - 1)
+                right = left + 1;
         }
 
         return sum;

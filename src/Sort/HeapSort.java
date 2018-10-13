@@ -110,6 +110,6 @@ public class HeapSort {
         }
 
         String s = "aaaa";
-        System.out.println(s.substring(1, 2));
+        System.out.println(s.substring(1));
     }
 }

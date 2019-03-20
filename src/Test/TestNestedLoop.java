@@ -26,6 +26,9 @@ public class TestNestedLoop {
         list.add(0, 99);
         list.add(0, 98);
         System.out.println(list);
+
+        String s = "1111";
+
     }
 
 }

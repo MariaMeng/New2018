@@ -165,11 +165,61 @@ public class SerializeAndDeserializeBinaryTree {
         node.left.left = new TreeNode(1);
         node.left.right = new TreeNode(3);
 
-        String s = serialize_C(node);
+        String s = serialize4(node);
         System.out.println(s);
-        TreeNode res = deserialize_C(s);
+        TreeNode res = deserialize4(s);
 
         System.out.println(res);
     }
 
+
+
+    // 4. new
+    public static String serialize4(TreeNode root) {
+        // write your code here
+        if (root == null) return "";
+        StringBuilder sb = new StringBuilder();
+        helper(root, sb);
+
+        return sb.toString();
+    }
+    public static void helper(TreeNode root, StringBuilder sb) {
+        if (root == null) {
+            sb.append("#,");
+            return ;
+        }
+        sb.append(root.val);
+        sb.append(",");
+
+        helper(root.left, sb);
+        helper(root.right, sb);
+    }
+
+    /**
+     * This method will be invoked second, the argument data is what exactly
+     * you serialized at method "serialize", that means the data is not given by
+     * system, it's given by your own serialize method. So the format of data is
+     * designed by yourself, and deserialize it here as you serialize it in
+     * "serialize" method.
+     */
+    public static TreeNode deserialize4(String data) {
+        // write your code here
+        if (data == null || data.length() == 0)return null;
+
+        String[] str = data.split(",");
+        int[] d = new int[1];
+        d[0] = -1;
+        return helper2(str, d);
+
+    }
+    public static TreeNode helper2(String[] str, int[] d) {
+        d[0]++;
+        if (d[0] == str.length || str[d[0]].equals("#"))
+            return null;
+        TreeNode root = new TreeNode(Integer.valueOf(str[d[0]]));
+        root.left = helper2(str, d);
+        root.right = helper2(str, d);
+
+        return root;
+    }
 }

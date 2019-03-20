@@ -53,17 +53,17 @@ public class SumOfDistancesInTree {
         return res;
     }
 
-    int[] res, count;
-    ArrayList<HashSet<Integer>> tree;
-    int n;
-    public int[] sumOfDistancesInTree_B(int N, int[][] edges) {
+    static int[] res, count;
+    static ArrayList<HashSet<Integer>> tree;
+    static int n;
+    public static int[] sumOfDistancesInTree_B(int N, int[][] edges) {
         res = new int[N];
         count = new int[N];
         tree = new ArrayList<>();
         n = N;
 
         for (int i = 0; i < N; i++) {
-            tree.add(new HashSet<>());
+            tree.add(new HashSet<Integer>());
         }
 
         for (int[] e : edges) {
@@ -80,7 +80,7 @@ public class SumOfDistancesInTree {
         return res;
     }
 
-    public void dfs(int root, HashSet<Integer> visited) {
+    public static void dfs(int root, HashSet<Integer> visited) {
         visited.add(root);
         for (int i : tree.get(root)) {
             if (!visited.contains(i)) {
@@ -88,14 +88,14 @@ public class SumOfDistancesInTree {
                 count[root] += count[i];
                 res[root] += res[i] + count[i];
             }
-
         }
         count[root]++;
     }
 
-    public void dfs2(int root, HashSet<Integer> visited) {
+
+    public static void dfs2(int root, HashSet<Integer> visited) {
         visited.add(root);
-        for (int i : tree.get(root)) {
+        for (int i : tree.get(root)){
             if (!visited.contains(i)) {
                 res[i] = res[root] - count[i] + n - count[i];
                 dfs2(i, visited);
@@ -114,7 +114,7 @@ public class SumOfDistancesInTree {
             edge[i][1] = in.nextInt();
         }
 
-        int[] res = sumOfDistancesInTree(N, edge);
+        int[] res = sumOfDistancesInTree_B(N, edge);
 
         for (int r : res) {
             System.out.println(r);

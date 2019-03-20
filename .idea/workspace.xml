@@ -2,101 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5df97bdb-534f-47cf-9aac-182a818c2a9e" name="Default" comment="candy2">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Algorithm/BalancedGraph.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Algorithm/CanFinish.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Algorithm/CanTransfer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Algorithm/Edge.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Algorithm/FatMouseAndCheese.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Algorithm/GetLessIndex.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Algorithm/KAdd.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Algorithm/LongestRepeatingSubsequence.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Algorithm/MagicMatrix.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Algorithm/MinNum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Algorithm/ModifiedArray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Algorithm/RemoveElements.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Algorithm/ReversePair.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Algorithm/SlidingWindowMean.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Algorithm/ZigzagIterator2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Cache/LFUCache.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Cache/LRUCache.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DP/FrogJump.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DP/Robbery.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Fibonacci/Matrix.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/CombiningClasses.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MIOJ/Banana.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MIOJ/Dijkstra.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MIOJ/FindMax.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MIOJ/LongestContinousArray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MIOJ/Pilot.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MIOJ/Progression.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MIOJ/RotateMiddle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MIOJ/SaveMI.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MIOJ/SplitCandy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ObjectOriented/Adaptor/Adaptee.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ObjectOriented/Adaptor/Adaptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ObjectOriented/Adaptor/Adaptor2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ObjectOriented/Adaptor/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ObjectOriented/Adaptor/Target.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ObjectOriented/Adaptor/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ObjectOriented/Card/Card.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ObjectOriented/Decorator/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ObjectOriented/Decorator/ICar.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ObjectOriented/Decorator/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ObjectOriented/Elevator/Elevator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ObjectOriented/Elevator/Request.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ObjectOriented/Extends/Animal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ObjectOriented/Extends/Cat.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ObjectOriented/Extends/CatHabbit.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ObjectOriented/Extends/Color.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ObjectOriented/Extends/Habbit.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ObjectOriented/FactionPattern/AK47.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ObjectOriented/FactionPattern/AbstractFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ObjectOriented/FactionPattern/Apple.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ObjectOriented/FactionPattern/Car.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ObjectOriented/FactionPattern/DefaultFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ObjectOriented/FactionPattern/Food.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ObjectOriented/FactionPattern/Kindle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ObjectOriented/FactionPattern/Vehicle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ObjectOriented/FactionPattern/Weapon.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ObjectOriented/ProducerConsumer/BlockQueue/Consumer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ObjectOriented/ProducerConsumer/BlockQueue/PCData.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ObjectOriented/ProducerConsumer/BlockQueue/Producer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ObjectOriented/ProducerConsumer/BlockQueue/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ObjectOriented/ProducerConsumer/WaitAndNotify/Consumer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ObjectOriented/ProducerConsumer/WaitAndNotify/PCData.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ObjectOriented/ProducerConsumer/WaitAndNotify/Producer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ObjectOriented/ProducerConsumer/WaitAndNotify/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ObjectOriented/SingleTon/Singleton1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ObjectOriented/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/OperatingSystem/Banker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Packaging/Complete/CoinChange.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test/TestString.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test/testFinally.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test/testReverseDigit.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/CAS/Counter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/WaitAndNotify.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/UnionFind/FlowerProblem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/UnionFind/NumberOfIslandsII.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/VMware/HowLong.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/VMware/Jinianpin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/VMware/Nsum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/VMware/Pinshu.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/VMware/WaterFlower.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WiggleSort.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Thread.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/New2018/Algorithm/CoinPath.class" afterPath="$PROJECT_DIR$/out/production/New2018/Algorithm/CoinPath.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/New2018/Algorithm/SerializeAndDeserializeBinaryTree.class" afterPath="$PROJECT_DIR$/out/production/New2018/Algorithm/SerializeAndDeserializeBinaryTree.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/New2018/Algorithm/SumOfDistancesInTree.class" afterPath="$PROJECT_DIR$/out/production/New2018/Algorithm/SumOfDistancesInTree.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/New2018/Packaging/Multiple/Jinianpin.class" afterPath="$PROJECT_DIR$/out/production/New2018/Packaging/Multiple/Jinianpin.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/New2018/Test/TestNestedLoop.class" afterPath="$PROJECT_DIR$/out/production/New2018/Test/TestNestedLoop.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/New2018/Test/testList.class" afterPath="$PROJECT_DIR$/out/production/New2018/Test/testList.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/New2019/poj1979.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Algorithm/SerializeAndDeserializeBinaryTree.java" afterPath="$PROJECT_DIR$/src/Algorithm/SerializeAndDeserializeBinaryTree.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Algorithm/SumOfDistancesInTree.java" afterPath="$PROJECT_DIR$/src/Algorithm/SumOfDistancesInTree.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Packaging/Multiple/Jinianpin.java" afterPath="$PROJECT_DIR$/src/Packaging/Multiple/Jinianpin.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Test/TestNestedLoop.java" afterPath="$PROJECT_DIR$/src/Test/TestNestedLoop.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Test/testList.java" afterPath="$PROJECT_DIR$/src/Test/testList.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -131,21 +38,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RotateMiddle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MIOJ/RotateMiddle.java">
+      <file leaf-file-name="poj1979.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/New2019/poj1979.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="40" column="9" lean-forward="false" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Dijkstra.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/MIOJ/Dijkstra.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+            <state relative-caret-position="340">
+              <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="81" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -208,7 +105,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Algorithm/CanFinish.java" />
         <option value="$PROJECT_DIR$/src/Algorithm/ReversePair.java" />
         <option value="$PROJECT_DIR$/src/Algorithm/CanTransfer.java" />
         <option value="$PROJECT_DIR$/src/Algorithm/MagicMatrix.java" />
@@ -259,6 +155,7 @@
         <option value="$PROJECT_DIR$/src/MIOJ/Pilot.java" />
         <option value="$PROJECT_DIR$/src/MIOJ/SplitCandy.java" />
         <option value="$PROJECT_DIR$/src/MIOJ/Progression.java" />
+        <option value="$PROJECT_DIR$/src/New2019/poj1979.java" />
       </list>
     </option>
   </component>
@@ -301,6 +198,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -341,33 +240,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="MIOJ" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="New2018" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="New2018" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Algorithm" />
+              <option name="myItemId" value="New2019" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -390,27 +269,7 @@
       <recent name="背包问题.多重背包问题" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SplitCandy">
-    <configuration default="false" name="FindMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="MIOJ.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="MIOJ.FindMax" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="New2018" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.poj1979">
     <configuration default="false" name="RotateMiddle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -479,6 +338,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="MIOJ.SplitCandy" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="New2018" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="poj1979" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="New2019.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="New2019.poj1979" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -872,19 +751,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.FindMax" />
-      <item index="1" class="java.lang.String" itemvalue="Application.RotateMiddle" />
-      <item index="2" class="java.lang.String" itemvalue="Application.SaveMI" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Pilot" />
-      <item index="4" class="java.lang.String" itemvalue="Application.SplitCandy" />
+      <item index="0" class="java.lang.String" itemvalue="Application.RotateMiddle" />
+      <item index="1" class="java.lang.String" itemvalue="Application.SaveMI" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Pilot" />
+      <item index="3" class="java.lang.String" itemvalue="Application.SplitCandy" />
+      <item index="4" class="java.lang.String" itemvalue="Application.poj1979" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.SplitCandy" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Pilot" />
-        <item index="2" class="java.lang.String" itemvalue="Application.SaveMI" />
-        <item index="3" class="java.lang.String" itemvalue="Application.RotateMiddle" />
-        <item index="4" class="java.lang.String" itemvalue="Application.FindMax" />
+        <item index="0" class="java.lang.String" itemvalue="Application.poj1979" />
+        <item index="1" class="java.lang.String" itemvalue="Application.SplitCandy" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Pilot" />
+        <item index="3" class="java.lang.String" itemvalue="Application.SaveMI" />
+        <item index="4" class="java.lang.String" itemvalue="Application.RotateMiddle" />
       </list>
     </recent_temporary>
   </component>
@@ -914,6 +793,7 @@
       <workItem from="1548684012210" duration="1391000" />
       <workItem from="1551008981303" duration="57000" />
       <workItem from="1551536620906" duration="2000" />
+      <workItem from="1553089989924" duration="1282000" />
     </task>
     <task id="LOCAL-00001" summary="round C">
       <created>1532528241010</created>
@@ -961,7 +841,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="397552000" />
+    <option name="totallyTimeSpent" value="398834000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -974,11 +854,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1366" height="677" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32378224" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -990,7 +871,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6683761" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22507553" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22809668" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1002,7 +883,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32378224" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
@@ -1438,7 +1318,7 @@
           <option name="timeStamp" value="194" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="195" />
+      <option name="time" value="200" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1447,13 +1327,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Cache/LRUCache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="105" column="29" lean-forward="false" selection-start-line="105" selection-start-column="29" selection-end-line="105" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ObjectOriented/Card/Card.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -1780,7 +1653,7 @@
         <state relative-caret-position="17">
           <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1851,7 +1724,7 @@
         <state relative-caret-position="51">
           <caret line="21" column="34" lean-forward="false" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1861,16 +1734,8 @@
         <state relative-caret-position="438">
           <caret line="62" column="40" lean-forward="false" selection-start-line="62" selection-start-column="40" selection-end-line="62" selection-end-column="40" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MIOJ/RotateMiddle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="40" column="9" lean-forward="false" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1878,6 +1743,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MIOJ/RotateMiddle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="40" column="9" lean-forward="false" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/New2019/poj1979.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="81" selection-end-column="1" />
           <folding />
         </state>
       </provider>

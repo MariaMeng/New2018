@@ -4,290 +4,7 @@
     <bookmark url="file://$USER_HOME$/work/api-plus/src/main/java/com/xiaomi/assistant/service/state/concreteState/ParseUserInfoState.java" description="imeiMd5" line="184" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5df97bdb-534f-47cf-9aac-182a818c2a9e" name="Default" comment="candy2">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/2/12ff6b128e2bdbd2971c633a9772eb1946209b5a" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/6/16baa63f20960dfa7014c40d1d36c3011eee1c12" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/7/17990db277db140e37383c280d0c4ee4051df46f" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/e/1e56e327a0137fc20bc45b3c4d512d8bca3575c9" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/0/2033671b1a5c510bea7101b145571d3b89b5256b" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/5/2599317b7ef83bd5e96c60097ef00cfc83d50ffe" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2e4189460130ee34d2fd57a79c38b743b1bb9ef8" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/9/39c39afd54a212c6dea74ddabdfdbfae5f54512f" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/a/3aab5d9fc1bf8061975abd209dc35082fbe0db05" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/d/4dfa7b71f5e0cf4affaea03e289cae5826e96c55" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/2/62125edcebc75925f4d82247db758879640b5c58" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/4/64e1cd184ef25ce29588b023e1eecc08e357bdf7" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/6610c80ea2b88186d93c2a506ed725045f3955e0" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/a/6a0468134b1bb13d08337cf55082238b442dc8eb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/b/6bcf8d1a905252ea62d21678efbfbdd338bdc914" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/79614f391be9f612a154b34d05071ffb3aa3b1d3" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/a/7a29d92a1836d7855ce1dd75162f73d064a2542f" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/2/82a670a97ef8b18707d1f6d559e3a20722133480" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/4/84f2808db3be01acbda3d77c9504ef5abd6bf9f3" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/d/8d94ee77cefbb6aee9a83645f00f3ebe48cd5769" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/4/9485f047a7542f2d019c12c6ea40c232739998ea" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/b/9b638ff669a77b9a8544544822d0e6de24984fd0" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/2/c294fb1066058ae870ab70bd75c52c64924fa0af" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/5/c5bc230ddb8b2b5f2b0f1d95e9acdd334c645c58" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e5b1c8650bacb521c4c31fba9ee35d2718be967b" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/7/e7286385addec9d727f6f256af77e08694f71078" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/d/ed1be74c1b2e8cf212bd7b895e30400afcb735b9" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f0311def0374abf9b036deb9860b651f9ab39f32" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f6fc8631c14a5049d2f1af6cd3ba312e7b4b37bb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/a/fa3f1e7795ac2a823bf1db42095038e7bd27a347" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Algorithm/test1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Aug/Aug11th2019/Leetcode983.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Aug/Aug1st2019/Leetcode968$TreeNode.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Aug/Aug1st2019/Leetcode968.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Aug/Aug5th2019/DP.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Aug/Aug8th2019/BackPackII.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Aug/Aug8th2019/Leetcode322.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Dec/Dec15th2019/Color.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Dec/Dec15th2019/SystemCopyTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Dec/Dec19th2019/Leetcode229.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Dec/Dec2nd2019/HeapSort.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Dec/Dec2nd2019/Leetcode215.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Dec/Dec3rd2019/HeapSort.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Dec/Dec7th2019/Leetcode215.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Feb/Feb2nd2020/Leetcode51.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Jan/Leetcode133.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Jan/Leetcode32.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Jan/Node.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/July/July242019/Leetcode99$TreeNode.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/July/July242019/Leetcode99.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/July/July282019/InOrderyTraverse.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/July/July282019/PostOrderTraverse$TreeNode.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/July/July282019/PostOrderTraverse.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/July/July282019/PreOrderTraverse$TreeNode.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/July/July282019/PreOrderTraverse.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/July/July282019/TreeNode.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/July/July292019/Leetcode1026$TreeNode.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/July/July292019/Leetcode1026.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/July/July302019/Leetcode576.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/CombinationIterator.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/Leetcod35382.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/Leetcode1286.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/Leetcode365.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/Leetcode421.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/Leetcode450.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/Leetcode5178.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/Leetcode5195$Node.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/Leetcode5195.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/Leetcode5368.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/Leetcode5369.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/Leetcode5370.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/Leetcode5383.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/Leetcode71.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/Leetcode8.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/Leetcode954.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/Leetcode987.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/Main.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/Main1$TreeNode.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/Main1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/Maxituan.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/MyIterator.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/Offer40.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/Point.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/Result.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/Singleton.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/TreeNode.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/UndergroundSystem$CheckIn.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/UndergroundSystem.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Nov/Nov10th2019/Leetcode332.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Nov/Nov12th2019/Leetcode322.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Nov/Nov1st2019/Leetcode394.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Nov/Nov21th2019/Leetcode139.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Nov/Nov2nd2019/Leetcode10.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Nov/Nov2nd2019/Leetcode17.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Nov/Nov3rd2019/Leetcode207.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Nov/Nov3rd2019/Leetcode269.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Nov/Nov3rd2019/Leetcode41.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Nov/Nov3rd2019/Leetcode98.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Nov/Nov5th2019/Leetcode79.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Nov/Nov9th2019/Leetcode1206.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Nov/Nov9th2019/Skiplist$SkipNode.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Nov/Nov9th2019/Skiplist.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Nov/Nov9th2019/Skiplist1$RandomGenerator.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Nov/Nov9th2019/Skiplist1$SkipListEntry.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Nov/Nov9th2019/Skiplist1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Ock21th2019/Leetcode42.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct10th2019/Leetcode958.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct10th2019/TreeNode.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct14th2019/Leetcode1124.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct14th2019/Leetcode421$TrieNode.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct14th2019/Leetcode421.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct15th2019/LRUCache$ListNode.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct15th2019/LRUCache.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct15th2019/Leetcode146.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct15th2019/Leetcode2.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct15th2019/ListNode.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct16th2019/LFUCache.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct16th2019/Leetcode460.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct17th2019/Leetcode4.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct20th2019/Leetcode5.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct22nd2019/Leetcode3.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct24th2019/Leetcode15.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct24th2019/Leetcode407.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct25th2019/Leetcode20.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct25th2019/Leetcode23.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct25th2019/ListNode.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct26th2019/Leetcode238.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct26th2019/Leetcode56.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct26th2019/Leetcode76.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct26th2019/Leetcode92$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct26th2019/Leetcode92$2.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct26th2019/Leetcode92$3.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct26th2019/Leetcode92.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct26th2019/ListNode.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct27th2019/Leetcode239.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct27th2019/Leetcode289.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct27th2019/Leetcode297.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct27th2019/Leetcode973.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct27th2019/TreeNode.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct28th2019/Interval.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct28th2019/Leetcode11.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct28th2019/Leetcode22.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct28th2019/Leetcode253.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct29th2019/Leetcode49.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct29th2019/Leetcode560.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct2nd2019/QuickSort.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct30th2019/Leetcode10.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct30th2019/Leetcode380.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct30th2019/Leetcode68.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct30th2019/RandomizedSet.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct30th2019/RandomizedSet1$Node.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct30th2019/RandomizedSet1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct31th2019/Leetcode148.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct31th2019/ListNode.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct3rd2019/NearlySorted.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct4th2019/Leetcode164.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct4th2019/Leetcode297.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct4th2019/TreeNode.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct5th2019/Leetcode449.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct5th2019/TreeNode.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Sep28th2019/Leetcode56.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Kickstart/Alarm.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Kickstart/Candiies.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Kickstart/Candy2.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Kickstart/ContinuousMaximumSubarray.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Kickstart/FairiesAndWithes.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Kickstart/Solution.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/MIOJ/Dijkstra.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/MIOJ/Progression.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/MIOJ/Test.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Sort/Bubble.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Sort/Insert.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Sort/Merge.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Aug/Aug11th2019/Leetcode983.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Aug/Aug1st2019/Leetcode968.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Aug/Aug5th2019/DP.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Aug/Aug8th2019/BackPackII.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Aug/Aug8th2019/Leetcode322.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Dec/Dec15th2019/SystemCopyTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Dec/Dec19th2019/Leetcode229.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Dec/Dec2nd2019/HeapSort.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Dec/Dec2nd2019/Leetcode215.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Dec/Dec3rd2019/HeapSort.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Dec/Dec7th2019/Leetcode215.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Feb/Feb2nd2020/Leetcode51.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Jan/Leetcode133.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Jan/Leetcode32.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/July/July242019/Leetcode99.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/July/July282019/InOrderyTraverse.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/July/July282019/PostOrderTraverse.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/July/July282019/PreOrderTraverse.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/July/July292019/Leetcode1026.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/July/July302019/Leetcode576.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Mar/Leetcod35382.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Mar/Leetcode1286.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Mar/Leetcode365.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Mar/Leetcode421.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Mar/Leetcode450.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Mar/Leetcode5178.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Mar/Leetcode5195.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Mar/Leetcode5368.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Mar/Leetcode5369.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Mar/Leetcode5370.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Mar/Leetcode5383.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Mar/Leetcode71.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Mar/Leetcode8.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Mar/Leetcode954.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Mar/Leetcode987.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Mar/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Mar/Main1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Mar/Maxituan.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Mar/MyIterator.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Mar/Offer40.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Mar/Singleton.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Nov/Nov10th2019/Leetcode332.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Nov/Nov12th2019/Leetcode322.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Nov/Nov1st2019/Leetcode394.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Nov/Nov21th2019/Leetcode139.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Nov/Nov2nd2019/Leetcode10.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Nov/Nov2nd2019/Leetcode17.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Nov/Nov3rd2019/Leetcode207.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Nov/Nov3rd2019/Leetcode269.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Nov/Nov3rd2019/Leetcode41.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Nov/Nov3rd2019/Leetcode98.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Nov/Nov5th2019/Leetcode79.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Nov/Nov9th2019/Leetcode1206.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Ock21th2019/Leetcode42.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct10th2019/Leetcode958.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct14th2019/Leetcode1124.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct14th2019/Leetcode421.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct15th2019/Leetcode146.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct15th2019/Leetcode2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct16th2019/Leetcode460.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct17th2019/Leetcode4.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct20th2019/Leetcode5.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct22nd2019/Leetcode3.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct24th2019/Leetcode15.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct24th2019/Leetcode407.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct25th2019/Leetcode20.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct25th2019/Leetcode23.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct26th2019/Leetcode238.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct26th2019/Leetcode56.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct26th2019/Leetcode76.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct26th2019/Leetcode92.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct27th2019/Leetcode239.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct27th2019/Leetcode289.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct27th2019/Leetcode297.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct27th2019/Leetcode973.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct28th2019/Leetcode11.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct28th2019/Leetcode22.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct28th2019/Leetcode253.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct29th2019/Leetcode49.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct29th2019/Leetcode560.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct2nd2019/QuickSort.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct30th2019/Leetcode10.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct30th2019/Leetcode380.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct30th2019/Leetcode68.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct31th2019/Leetcode148.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct3rd2019/NearlySorted.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct4th2019/Leetcode164.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct4th2019/Leetcode297.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct5th2019/Leetcode449.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Sep28th2019/Leetcode56.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Sort/Bubble.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Sort/Insert.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Sort/Merge.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/New2018/Algorithm/MagicMatrix.class" afterPath="$PROJECT_DIR$/out/production/New2018/Algorithm/MagicMatrix.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/New2018/ObjectOriented/Adaptor/Adaptee.class" afterPath="$PROJECT_DIR$/out/production/New2018/ObjectOriented/Adaptor/Adaptee.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/New2018/ObjectOriented/Decorator/AICar.class" afterPath="$PROJECT_DIR$/out/production/New2018/ObjectOriented/Decorator/AICar.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/New2018/ObjectOriented/Decorator/Car.class" afterPath="$PROJECT_DIR$/out/production/New2018/ObjectOriented/Decorator/Car.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/New2018/ObjectOriented/Decorator/Client.class" afterPath="$PROJECT_DIR$/out/production/New2018/ObjectOriented/Decorator/Client.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/New2018/ObjectOriented/Decorator/FlyCar.class" afterPath="$PROJECT_DIR$/out/production/New2018/ObjectOriented/Decorator/FlyCar.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/New2018/ObjectOriented/Decorator/WaterCar.class" afterPath="$PROJECT_DIR$/out/production/New2018/ObjectOriented/Decorator/WaterCar.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/New2018/ObjectOriented/ProducerConsumer/BlockQueue/Producer.class" afterPath="$PROJECT_DIR$/out/production/New2018/ObjectOriented/ProducerConsumer/BlockQueue/Producer.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/New2018/ObjectOriented/ProducerConsumer/WaitAndNotify/Consumer.class" afterPath="$PROJECT_DIR$/out/production/New2018/ObjectOriented/ProducerConsumer/WaitAndNotify/Consumer.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/New2018/ObjectOriented/ProducerConsumer/WaitAndNotify/Producer.class" afterPath="$PROJECT_DIR$/out/production/New2018/ObjectOriented/ProducerConsumer/WaitAndNotify/Producer.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/New2018/OperatingSystem/Banker.class" afterPath="$PROJECT_DIR$/out/production/New2018/OperatingSystem/Banker.class" />
-      <change beforePath="$PROJECT_DIR$/src/Kickstart/ContinuousMaximumSubarray.java" afterPath="$PROJECT_DIR$/src/Kickstart/ContinuousMaximumSubarray.java" />
-      <change beforePath="$PROJECT_DIR$/src/MIOJ/SaveMI.java" afterPath="$PROJECT_DIR$/src/MIOJ/SaveMI.java" />
-    </list>
+    <list default="true" id="5df97bdb-534f-47cf-9aac-182a818c2a9e" name="Default" comment="candy2" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -317,8 +34,8 @@
       <file leaf-file-name="Iterator.java" pinned="false" current-in-tab="true">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/util/Iterator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="53" column="17" lean-forward="false" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
+            <state relative-caret-position="34">
+              <caret line="34" column="7" lean-forward="false" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -1346,20 +1063,20 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="632725000" />
+    <option name="totallyTimeSpent" value="632910000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1366" height="682" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.57058823" sideWeight="0.5030675" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23089343" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5642023" sideWeight="0.4969325" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32568306" sideWeight="0.4939577" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6699219" sideWeight="0.4939577" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Code Review" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.6640625" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1368,6 +1085,7 @@
       <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="codeView" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32468995" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1375,16 +1093,39 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.64785993" sideWeight="0.4969325" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.57058823" sideWeight="0.5030675" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23089343" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.64785993" sideWeight="0.4969325" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31672025" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898772" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5642023" sideWeight="0.4969325" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32568306" sideWeight="0.4939577" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Code Review" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.6640625" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3719325" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="codeView" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32468995" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1949,9 +1690,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1660">
           <caret line="83" column="19" lean-forward="true" selection-start-line="83" selection-start-column="19" selection-end-line="83" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2234,11 +1972,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1820">
           <caret line="96" column="16" lean-forward="false" selection-start-line="96" selection-start-column="16" selection-end-line="96" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2268,7 +2001,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="28020">
           <caret line="1401" column="19" lean-forward="false" selection-start-line="1401" selection-start-column="19" selection-end-line="1401" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2276,7 +2008,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="560">
           <caret line="28" column="18" lean-forward="false" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2284,7 +2015,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2292,7 +2022,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
           <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2300,9 +2029,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
           <caret line="83" column="19" lean-forward="false" selection-start-line="83" selection-start-column="19" selection-end-line="83" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2310,16 +2036,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="35" column="17" lean-forward="false" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/util/Iterator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="53" column="17" lean-forward="false" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
+        <state relative-caret-position="34">
+          <caret line="34" column="7" lean-forward="false" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
           <folding />
         </state>
       </provider>

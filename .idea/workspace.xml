@@ -1,0 +1,2328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$USER_HOME$/work/api-plus/src/main/java/com/xiaomi/assistant/service/state/concreteState/ParseUserInfoState.java" description="imeiMd5" line="184" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5df97bdb-534f-47cf-9aac-182a818c2a9e" name="Default" comment="candy2">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/2/12ff6b128e2bdbd2971c633a9772eb1946209b5a" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/6/16baa63f20960dfa7014c40d1d36c3011eee1c12" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/7/17990db277db140e37383c280d0c4ee4051df46f" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/e/1e56e327a0137fc20bc45b3c4d512d8bca3575c9" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/0/2033671b1a5c510bea7101b145571d3b89b5256b" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/5/2599317b7ef83bd5e96c60097ef00cfc83d50ffe" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2e4189460130ee34d2fd57a79c38b743b1bb9ef8" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/9/39c39afd54a212c6dea74ddabdfdbfae5f54512f" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/a/3aab5d9fc1bf8061975abd209dc35082fbe0db05" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/d/4dfa7b71f5e0cf4affaea03e289cae5826e96c55" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/2/62125edcebc75925f4d82247db758879640b5c58" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/4/64e1cd184ef25ce29588b023e1eecc08e357bdf7" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/6610c80ea2b88186d93c2a506ed725045f3955e0" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/a/6a0468134b1bb13d08337cf55082238b442dc8eb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/b/6bcf8d1a905252ea62d21678efbfbdd338bdc914" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/79614f391be9f612a154b34d05071ffb3aa3b1d3" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/a/7a29d92a1836d7855ce1dd75162f73d064a2542f" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/2/82a670a97ef8b18707d1f6d559e3a20722133480" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/4/84f2808db3be01acbda3d77c9504ef5abd6bf9f3" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/d/8d94ee77cefbb6aee9a83645f00f3ebe48cd5769" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/4/9485f047a7542f2d019c12c6ea40c232739998ea" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/b/9b638ff669a77b9a8544544822d0e6de24984fd0" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/2/c294fb1066058ae870ab70bd75c52c64924fa0af" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/5/c5bc230ddb8b2b5f2b0f1d95e9acdd334c645c58" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e5b1c8650bacb521c4c31fba9ee35d2718be967b" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/7/e7286385addec9d727f6f256af77e08694f71078" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/d/ed1be74c1b2e8cf212bd7b895e30400afcb735b9" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f0311def0374abf9b036deb9860b651f9ab39f32" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f6fc8631c14a5049d2f1af6cd3ba312e7b4b37bb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/a/fa3f1e7795ac2a823bf1db42095038e7bd27a347" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Algorithm/test1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Aug/Aug11th2019/Leetcode983.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Aug/Aug1st2019/Leetcode968$TreeNode.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Aug/Aug1st2019/Leetcode968.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Aug/Aug5th2019/DP.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Aug/Aug8th2019/BackPackII.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Aug/Aug8th2019/Leetcode322.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Dec/Dec15th2019/Color.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Dec/Dec15th2019/SystemCopyTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Dec/Dec19th2019/Leetcode229.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Dec/Dec2nd2019/HeapSort.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Dec/Dec2nd2019/Leetcode215.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Dec/Dec3rd2019/HeapSort.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Dec/Dec7th2019/Leetcode215.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Feb/Feb2nd2020/Leetcode51.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Jan/Leetcode133.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Jan/Leetcode32.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Jan/Node.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/July/July242019/Leetcode99$TreeNode.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/July/July242019/Leetcode99.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/July/July282019/InOrderyTraverse.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/July/July282019/PostOrderTraverse$TreeNode.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/July/July282019/PostOrderTraverse.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/July/July282019/PreOrderTraverse$TreeNode.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/July/July282019/PreOrderTraverse.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/July/July282019/TreeNode.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/July/July292019/Leetcode1026$TreeNode.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/July/July292019/Leetcode1026.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/July/July302019/Leetcode576.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/CombinationIterator.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/Leetcod35382.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/Leetcode1286.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/Leetcode365.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/Leetcode421.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/Leetcode450.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/Leetcode5178.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/Leetcode5195$Node.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/Leetcode5195.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/Leetcode5368.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/Leetcode5369.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/Leetcode5370.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/Leetcode5383.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/Leetcode71.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/Leetcode8.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/Leetcode954.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/Leetcode987.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/Main.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/Main1$TreeNode.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/Main1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/Maxituan.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/MyIterator.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/Offer40.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/Point.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/Result.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/Singleton.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/TreeNode.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/UndergroundSystem$CheckIn.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Mar/UndergroundSystem.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Nov/Nov10th2019/Leetcode332.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Nov/Nov12th2019/Leetcode322.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Nov/Nov1st2019/Leetcode394.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Nov/Nov21th2019/Leetcode139.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Nov/Nov2nd2019/Leetcode10.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Nov/Nov2nd2019/Leetcode17.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Nov/Nov3rd2019/Leetcode207.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Nov/Nov3rd2019/Leetcode269.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Nov/Nov3rd2019/Leetcode41.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Nov/Nov3rd2019/Leetcode98.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Nov/Nov5th2019/Leetcode79.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Nov/Nov9th2019/Leetcode1206.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Nov/Nov9th2019/Skiplist$SkipNode.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Nov/Nov9th2019/Skiplist.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Nov/Nov9th2019/Skiplist1$RandomGenerator.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Nov/Nov9th2019/Skiplist1$SkipListEntry.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Nov/Nov9th2019/Skiplist1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Ock21th2019/Leetcode42.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct10th2019/Leetcode958.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct10th2019/TreeNode.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct14th2019/Leetcode1124.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct14th2019/Leetcode421$TrieNode.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct14th2019/Leetcode421.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct15th2019/LRUCache$ListNode.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct15th2019/LRUCache.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct15th2019/Leetcode146.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct15th2019/Leetcode2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct15th2019/ListNode.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct16th2019/LFUCache.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct16th2019/Leetcode460.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct17th2019/Leetcode4.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct20th2019/Leetcode5.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct22nd2019/Leetcode3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct24th2019/Leetcode15.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct24th2019/Leetcode407.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct25th2019/Leetcode20.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct25th2019/Leetcode23.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct25th2019/ListNode.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct26th2019/Leetcode238.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct26th2019/Leetcode56.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct26th2019/Leetcode76.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct26th2019/Leetcode92$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct26th2019/Leetcode92$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct26th2019/Leetcode92$3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct26th2019/Leetcode92.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct26th2019/ListNode.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct27th2019/Leetcode239.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct27th2019/Leetcode289.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct27th2019/Leetcode297.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct27th2019/Leetcode973.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct27th2019/TreeNode.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct28th2019/Interval.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct28th2019/Leetcode11.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct28th2019/Leetcode22.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct28th2019/Leetcode253.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct29th2019/Leetcode49.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct29th2019/Leetcode560.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct2nd2019/QuickSort.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct30th2019/Leetcode10.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct30th2019/Leetcode380.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct30th2019/Leetcode68.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct30th2019/RandomizedSet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct30th2019/RandomizedSet1$Node.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct30th2019/RandomizedSet1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct31th2019/Leetcode148.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct31th2019/ListNode.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct3rd2019/NearlySorted.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct4th2019/Leetcode164.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct4th2019/Leetcode297.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct4th2019/TreeNode.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct5th2019/Leetcode449.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Oct/Oct5th2019/TreeNode.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Date/Sep28th2019/Leetcode56.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Kickstart/Alarm.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Kickstart/Candiies.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Kickstart/Candy2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Kickstart/ContinuousMaximumSubarray.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Kickstart/FairiesAndWithes.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Kickstart/Solution.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/MIOJ/Dijkstra.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/MIOJ/Progression.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/MIOJ/Test.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Sort/Bubble.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Sort/Insert.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/New2018/Sort/Merge.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Aug/Aug11th2019/Leetcode983.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Aug/Aug1st2019/Leetcode968.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Aug/Aug5th2019/DP.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Aug/Aug8th2019/BackPackII.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Aug/Aug8th2019/Leetcode322.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Dec/Dec15th2019/SystemCopyTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Dec/Dec19th2019/Leetcode229.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Dec/Dec2nd2019/HeapSort.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Dec/Dec2nd2019/Leetcode215.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Dec/Dec3rd2019/HeapSort.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Dec/Dec7th2019/Leetcode215.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Feb/Feb2nd2020/Leetcode51.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Jan/Leetcode133.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Jan/Leetcode32.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/July/July242019/Leetcode99.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/July/July282019/InOrderyTraverse.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/July/July282019/PostOrderTraverse.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/July/July282019/PreOrderTraverse.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/July/July292019/Leetcode1026.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/July/July302019/Leetcode576.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Mar/Leetcod35382.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Mar/Leetcode1286.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Mar/Leetcode365.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Mar/Leetcode421.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Mar/Leetcode450.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Mar/Leetcode5178.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Mar/Leetcode5195.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Mar/Leetcode5368.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Mar/Leetcode5369.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Mar/Leetcode5370.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Mar/Leetcode5383.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Mar/Leetcode71.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Mar/Leetcode8.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Mar/Leetcode954.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Mar/Leetcode987.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Mar/Main.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Mar/Main1.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Mar/Maxituan.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Mar/MyIterator.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Mar/Offer40.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Mar/Singleton.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Nov/Nov10th2019/Leetcode332.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Nov/Nov12th2019/Leetcode322.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Nov/Nov1st2019/Leetcode394.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Nov/Nov21th2019/Leetcode139.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Nov/Nov2nd2019/Leetcode10.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Nov/Nov2nd2019/Leetcode17.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Nov/Nov3rd2019/Leetcode207.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Nov/Nov3rd2019/Leetcode269.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Nov/Nov3rd2019/Leetcode41.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Nov/Nov3rd2019/Leetcode98.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Nov/Nov5th2019/Leetcode79.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Nov/Nov9th2019/Leetcode1206.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Ock21th2019/Leetcode42.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct10th2019/Leetcode958.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct14th2019/Leetcode1124.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct14th2019/Leetcode421.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct15th2019/Leetcode146.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct15th2019/Leetcode2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct16th2019/Leetcode460.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct17th2019/Leetcode4.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct20th2019/Leetcode5.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct22nd2019/Leetcode3.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct24th2019/Leetcode15.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct24th2019/Leetcode407.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct25th2019/Leetcode20.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct25th2019/Leetcode23.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct26th2019/Leetcode238.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct26th2019/Leetcode56.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct26th2019/Leetcode76.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct26th2019/Leetcode92.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct27th2019/Leetcode239.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct27th2019/Leetcode289.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct27th2019/Leetcode297.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct27th2019/Leetcode973.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct28th2019/Leetcode11.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct28th2019/Leetcode22.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct28th2019/Leetcode253.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct29th2019/Leetcode49.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct29th2019/Leetcode560.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct2nd2019/QuickSort.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct30th2019/Leetcode10.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct30th2019/Leetcode380.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct30th2019/Leetcode68.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct31th2019/Leetcode148.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct3rd2019/NearlySorted.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct4th2019/Leetcode164.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct4th2019/Leetcode297.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Oct/Oct5th2019/Leetcode449.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Date/Sep28th2019/Leetcode56.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Sort/Bubble.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Sort/Insert.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Sort/Merge.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/out/production/New2018/Algorithm/MagicMatrix.class" afterPath="$PROJECT_DIR$/out/production/New2018/Algorithm/MagicMatrix.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/New2018/ObjectOriented/Adaptor/Adaptee.class" afterPath="$PROJECT_DIR$/out/production/New2018/ObjectOriented/Adaptor/Adaptee.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/New2018/ObjectOriented/Decorator/AICar.class" afterPath="$PROJECT_DIR$/out/production/New2018/ObjectOriented/Decorator/AICar.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/New2018/ObjectOriented/Decorator/Car.class" afterPath="$PROJECT_DIR$/out/production/New2018/ObjectOriented/Decorator/Car.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/New2018/ObjectOriented/Decorator/Client.class" afterPath="$PROJECT_DIR$/out/production/New2018/ObjectOriented/Decorator/Client.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/New2018/ObjectOriented/Decorator/FlyCar.class" afterPath="$PROJECT_DIR$/out/production/New2018/ObjectOriented/Decorator/FlyCar.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/New2018/ObjectOriented/Decorator/WaterCar.class" afterPath="$PROJECT_DIR$/out/production/New2018/ObjectOriented/Decorator/WaterCar.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/New2018/ObjectOriented/ProducerConsumer/BlockQueue/Producer.class" afterPath="$PROJECT_DIR$/out/production/New2018/ObjectOriented/ProducerConsumer/BlockQueue/Producer.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/New2018/ObjectOriented/ProducerConsumer/WaitAndNotify/Consumer.class" afterPath="$PROJECT_DIR$/out/production/New2018/ObjectOriented/ProducerConsumer/WaitAndNotify/Consumer.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/New2018/ObjectOriented/ProducerConsumer/WaitAndNotify/Producer.class" afterPath="$PROJECT_DIR$/out/production/New2018/ObjectOriented/ProducerConsumer/WaitAndNotify/Producer.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/New2018/OperatingSystem/Banker.class" afterPath="$PROJECT_DIR$/out/production/New2018/OperatingSystem/Banker.class" />
+      <change beforePath="$PROJECT_DIR$/src/Kickstart/ContinuousMaximumSubarray.java" afterPath="$PROJECT_DIR$/src/Kickstart/ContinuousMaximumSubarray.java" />
+      <change beforePath="$PROJECT_DIR$/src/MIOJ/SaveMI.java" afterPath="$PROJECT_DIR$/src/MIOJ/SaveMI.java" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/New2018$CanFinish.coverage" NAME="CanFinish Coverage Results" MODIFIED="1539953782849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Algorithm.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/New2018$InOrderyTraverse.coverage" NAME="InOrderyTraverse Coverage Results" MODIFIED="1564289358152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Date.July282019.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="New2018">
+      <favorite_root url="file://$PROJECT_DIR$/src/Date/Nov/Nov9th2019/Leetcode1206.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="Iterator.java" pinned="false" current-in-tab="true">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/util/Iterator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="53" column="17" lean-forward="false" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>A</find>
+      <find>scoreMap</find>
+      <find>scoreTailMap</find>
+      <find>scoremap</find>
+      <find>scoretailmap</find>
+      <find>add(</find>
+      <find>ORdEFAULT</find>
+      <find>default</find>
+      <find>sort</find>
+      <find>segment[</find>
+      <find>Segment&lt;K,V&gt;[]</find>
+      <find>writeObject</find>
+      <find>Segment</find>
+      <find>count</find>
+      <find>CONCURRENCY_LEVEL</find>
+      <find>get(</find>
+      <find>put(</find>
+      <find>reference</find>
+      <find>WeakReference</find>
+      <find>isTag</find>
+      <find>heap</find>
+      <find>iterator</find>
+      <find>compareTo</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>a</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Date/Leetcode148.java" />
+        <option value="$PROJECT_DIR$/src/Date/Oct31th2019/Leetcode148.java" />
+        <option value="$PROJECT_DIR$/src/Date/Oct/Oct2nd2019/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/Date/Nov/Leetcode394.java" />
+        <option value="$PROJECT_DIR$/src/Date/Nov/Nov1st2019/Leetcode394.java" />
+        <option value="$PROJECT_DIR$/src/Date/Nov/Nov2nd2019/Leetcode10.java" />
+        <option value="$PROJECT_DIR$/src/Date/Nov/Nov2nd2019/Leetcode17.java" />
+        <option value="$PROJECT_DIR$/src/Date/Nov/Nov3rd2019/Leetcode207.java" />
+        <option value="$PROJECT_DIR$/src/Date/Nov/Nov3rd2019/Leetcode269.java" />
+        <option value="$PROJECT_DIR$/src/Date/Nov/Nov3rd2019/Leetcode41.java" />
+        <option value="$PROJECT_DIR$/src/Date/Nov/Nov3rd2019/Leetcode98.java" />
+        <option value="$PROJECT_DIR$/src/Date/Nov/Nov5th2019/Leetcode79.java" />
+        <option value="$PROJECT_DIR$/src/Date/Nov/Nov9th2019/Leetcode1206.java" />
+        <option value="$PROJECT_DIR$/src/Date/Nov/Nov10th2019/Leetcode332.java" />
+        <option value="$PROJECT_DIR$/src/Date/Nov/Nov12th2019/Leetcode322.java" />
+        <option value="$PROJECT_DIR$/src/Date/Nov/Nov21th2019/Leetcode139.java" />
+        <option value="$PROJECT_DIR$/src/Date/Nov/Dec2nd2019/Leetcode215.java" />
+        <option value="$PROJECT_DIR$/src/Date/Nov/Dec2nd2019/HeapSort.java" />
+        <option value="$PROJECT_DIR$/src/Date/Dec/Dec3rd2019/Dec2nd2019/HeapSort.java" />
+        <option value="$PROJECT_DIR$/src/Dec/HeapSort.java" />
+        <option value="$PROJECT_DIR$/src/Date/Dec/Dec2nd2019/HeapSort.java" />
+        <option value="$PROJECT_DIR$/src/Date/Dec/Dec3rd2019/HeapSort.java" />
+        <option value="$PROJECT_DIR$/src/Date/Dec/Dec7th2019/Leetcode215.java" />
+        <option value="$PROJECT_DIR$/src/Date/Dec/Dec15th2019/SystemCopyTest.java" />
+        <option value="$PROJECT_DIR$/src/Date/Dec/Dec19th2019/Leetcode229.java" />
+        <option value="$PROJECT_DIR$/src/Date/Jan/Leetcode133.java" />
+        <option value="$PROJECT_DIR$/src/Date/Jan/Leetcode32.java" />
+        <option value="$PROJECT_DIR$/src/Date/Feb/Feb2nd2020/Leetcode51.java" />
+        <option value="$PROJECT_DIR$/src/Date/Mar/Leetcode421.java" />
+        <option value="$PROJECT_DIR$/src/Date/Mar/Leetcode8.java" />
+        <option value="$PROJECT_DIR$/src/Date/Checker.java" />
+        <option value="$PROJECT_DIR$/src/Date/Main.java" />
+        <option value="$PROJECT_DIR$/src/Date/Mar/Main.java" />
+        <option value="$PROJECT_DIR$/src/Date/Mar/Singleton.java" />
+        <option value="$PROJECT_DIR$/src/Date/Mar/Offer40.java" />
+        <option value="$PROJECT_DIR$/src/Date/Mar/Leetcode365.java" />
+        <option value="$PROJECT_DIR$/src/Date/Mar/Leetcode954.java" />
+        <option value="$PROJECT_DIR$/src/Date/Mar/Leetcode5178.java" />
+        <option value="$PROJECT_DIR$/src/Date/Mar/Maxituan.java" />
+        <option value="$PROJECT_DIR$/src/Date/Mar/Leetcode71.java" />
+        <option value="$PROJECT_DIR$/src/Date/Mar/Main1.java" />
+        <option value="$PROJECT_DIR$/src/Date/Mar/Leetcode987.java" />
+        <option value="$PROJECT_DIR$/src/Date/Mar/Leetcode5368.java" />
+        <option value="$PROJECT_DIR$/src/Date/Mar/Leetcode5369.java" />
+        <option value="$PROJECT_DIR$/src/Date/Mar/Leetcode5370.java" />
+        <option value="$PROJECT_DIR$/src/Date/Mar/Leetcode450.java" />
+        <option value="$PROJECT_DIR$/src/Date/Mar/MyIterator.java" />
+        <option value="$PROJECT_DIR$/src/Date/Mar/Leetcode1286.java" />
+        <option value="$PROJECT_DIR$/src/Date/Mar/Leetcode5195.java" />
+        <option value="$PROJECT_DIR$/src/Date/Mar/Leetcod35382.java" />
+        <option value="$PROJECT_DIR$/src/Date/Mar/Leetcode5383.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1366" />
+    <option name="height" value="682" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="New2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="New2018" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="New2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="New2018" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="String&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/lang/String.java&#10;Iterator&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/util/Iterator.java&#10;Integer&#9;PSI&#9;JAVA://java.lang.Integer&#10;threadlocal&#9;PSI&#9;JAVA://java.lang.ThreadLocal&#10;Concurrenthash&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;mergesort&#9;PSI&#9;JAVA://java.util.Arrays.LegacyMergeSort" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Leetcode5383">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="Leetcode1286" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Date.Mar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Date.Mar.Leetcode1286" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="New2018" />
+      <envs />
+    </configuration>
+    <configuration name="Leetcode5195" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Date.Mar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Date.Mar.Leetcode5195" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="New2018" />
+      <envs />
+    </configuration>
+    <configuration name="Leetcode5383" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Date.Mar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Date.Mar.Leetcode5383" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="New2018" />
+      <envs />
+    </configuration>
+    <configuration name="Maxituan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Date.Mar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Date.Mar.Maxituan" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="New2018" />
+      <envs />
+    </configuration>
+    <configuration name="MyIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Date.Mar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Date.Mar.MyIterator" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="New2018" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="PROJECT_INTERPRETER" value="false" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="New2018" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="New2018" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="New2018" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="New2018" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="New2018" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="New2018" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="New2018" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="New2018" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="New2018" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.Maxituan" />
+      <item index="1" class="java.lang.String" itemvalue="Application.MyIterator" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Leetcode1286" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Leetcode5195" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Leetcode5383" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.Leetcode5383" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Leetcode5195" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Leetcode1286" />
+        <item index="3" class="java.lang.String" itemvalue="Application.MyIterator" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Maxituan" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5df97bdb-534f-47cf-9aac-182a818c2a9e" name="Default" comment="" />
+      <created>1531921594877</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531921594877</updated>
+      <workItem from="1531921600374" duration="52820000" />
+      <workItem from="1535011696795" duration="13240000" />
+      <workItem from="1535769562488" duration="5950000" />
+      <workItem from="1537331338402" duration="13907000" />
+      <workItem from="1537620218794" duration="1940000" />
+      <workItem from="1537756067371" duration="22943000" />
+      <workItem from="1538195267859" duration="126480000" />
+      <workItem from="1539595467613" duration="74406000" />
+      <workItem from="1540356456477" duration="43029000" />
+      <workItem from="1541678743464" duration="1442000" />
+      <workItem from="1541998638181" duration="627000" />
+      <workItem from="1543751759324" duration="4743000" />
+      <workItem from="1545231432063" duration="34575000" />
+      <workItem from="1548684012210" duration="1391000" />
+      <workItem from="1551008981303" duration="57000" />
+      <workItem from="1551536620906" duration="2000" />
+      <workItem from="1553089989924" duration="8037000" />
+      <workItem from="1553524999239" duration="4213000" />
+      <workItem from="1553948518306" duration="3000" />
+      <workItem from="1554124690195" duration="562000" />
+      <workItem from="1554125258188" duration="67000" />
+      <workItem from="1554125383976" duration="913000" />
+      <workItem from="1561958015232" duration="5588000" />
+      <workItem from="1563706742736" duration="580000" />
+      <workItem from="1563709095168" duration="580000" />
+      <workItem from="1563943899372" duration="10042000" />
+      <workItem from="1564290367073" duration="1147000" />
+      <workItem from="1564376576510" duration="3649000" />
+      <workItem from="1564981205913" duration="3626000" />
+      <workItem from="1565158428004" duration="5874000" />
+      <workItem from="1569674980562" duration="3825000" />
+      <workItem from="1570010641077" duration="8169000" />
+      <workItem from="1570174691802" duration="4145000" />
+      <workItem from="1570668521979" duration="824000" />
+      <workItem from="1571012989496" duration="2324000" />
+      <workItem from="1571051431499" duration="10111000" />
+      <workItem from="1571313663210" duration="2000" />
+      <workItem from="1571314378366" duration="1506000" />
+      <workItem from="1571328917336" duration="6198000" />
+      <workItem from="1571585566329" duration="7784000" />
+      <workItem from="1571840248351" duration="1108000" />
+      <workItem from="1571925337494" duration="2439000" />
+      <workItem from="1572010095055" duration="31377000" />
+      <workItem from="1572620117979" duration="21540000" />
+      <workItem from="1573556818504" duration="3666000" />
+      <workItem from="1574646297644" duration="596000" />
+      <workItem from="1575283081464" duration="4102000" />
+      <workItem from="1575373356574" duration="9197000" />
+      <workItem from="1576110227548" duration="636000" />
+      <workItem from="1576218811060" duration="407000" />
+      <workItem from="1576409086956" duration="3548000" />
+      <workItem from="1579264759819" duration="1168000" />
+      <workItem from="1580620013684" duration="1181000" />
+      <workItem from="1580906082613" duration="815000" />
+      <workItem from="1582798922685" duration="309000" />
+      <workItem from="1582962205618" duration="1000" />
+      <workItem from="1583733626283" duration="15139000" />
+      <workItem from="1583936737549" duration="9585000" />
+      <workItem from="1584330647217" duration="6753000" />
+      <workItem from="1584689164797" duration="12447000" />
+      <workItem from="1584957746683" duration="6079000" />
+      <workItem from="1585576118904" duration="7432000" />
+      <workItem from="1586057914392" duration="1882000" />
+      <workItem from="1586186404810" duration="17000" />
+      <workItem from="1586663364151" duration="2676000" />
+      <workItem from="1590417562713" duration="604000" />
+      <workItem from="1592269435273" duration="585000" />
+      <workItem from="1607076869005" duration="115000" />
+    </task>
+    <task id="LOCAL-00001" summary="round C">
+      <created>1532528241010</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1532528241010</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fairies and witches">
+      <created>1532616601610</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1532616601610</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update new algorithm">
+      <created>1533483550327</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1533483550327</updated>
+    </task>
+    <task id="LOCAL-00004" summary="algorithm 2018">
+      <created>1537346143828</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1537346143829</updated>
+    </task>
+    <task id="LOCAL-00005" summary="纪念品 多重背包问题">
+      <created>1538297959705</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1538297959705</updated>
+    </task>
+    <task id="LOCAL-00006" summary="背包问题汇总&#10;01背包&#10;完全背包&#10;多重背包问题">
+      <created>1538298259762</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1538298259763</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="632725000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1366" height="682" extended-state="0" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.57058823" sideWeight="0.5030675" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23089343" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5642023" sideWeight="0.4969325" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32568306" sideWeight="0.4939577" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Code Review" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.6640625" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3719325" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="codeView" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.64785993" sideWeight="0.4969325" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31672025" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898772" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32468995" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.57058823" sideWeight="0.5030675" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23089343" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6509804" sideWeight="0.4969325" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31672025" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.210823" sideWeight="0.4969325" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32568306" sideWeight="0.4939577" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898772" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Code Review" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6666667" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.46447793" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="codeView" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3255814" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="BEK_SORT_TYPE" value="1" />
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Kickstart/Candiies.java</url>
+          <line>63</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Kickstart/ContinuousMaximumSubarray.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Kickstart/Candy2.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Yogurt/Solution.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Sort/InsertSort.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Sort/InsertSort.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Sort/HeapSort.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Packaging/ZeroOne/Robberies.java</url>
+          <line>76</line>
+          <properties />
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Packaging/ZeroOne/INeedAOffer.java</url>
+          <line>82</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Sort/RadixSort.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ListNode/InsertValue.java</url>
+          <line>71</line>
+          <properties />
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ListNode/Palindrome.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BinarySearch/LocalMin.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BinarySearch/LocalMin.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BinarySearch/LeftMostAppearance.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BinarySearch/MinValue.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BinaryTree/FoldPaper.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BitOp/OddsApperance.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Packaging/Complete/CoinChange.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Cache/LFUCache.java</url>
+          <line>92</line>
+          <properties />
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Fibonacci/Matrix.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Algorithm/KAdd.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/UnionFind/NumberOfIslandsII.java</url>
+          <line>109</line>
+          <properties />
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Algorithm/ReversePair.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Algorithm/CanTransfer.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WiggleSort.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Google/Solution.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Google/CombiningClasses.java</url>
+          <line>81</line>
+          <properties />
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Google/CombiningClasses.java</url>
+          <line>59</line>
+          <properties />
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Algorithm/FatMouseAndCheese.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test/testReverseDigit.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Algorithm/ZigzagIterator2.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="182" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Algorithm/ZigzagIterator2.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="184" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DP/FrogJump.java</url>
+          <line>100</line>
+          <properties />
+          <option name="timeStamp" value="189" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MIOJ/RotateMiddle.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="190" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MIOJ/SaveMI.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MIOJ/SplitCandy.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Sort/Bubble.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="201" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Sort/Merge.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="202" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Sort/Merge.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="203" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Date/July/July282019/InOrderyTraverse.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="207" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Date/July/July302019/Leetcode576.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="218" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Date/July/July302019/Leetcode576.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="219" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Date/July/July302019/Leetcode576.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="220" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Date/July/July302019/Leetcode576.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="221" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Date/Aug/Aug8th2019/Leetcode322.java</url>
+          <line>68</line>
+          <properties />
+          <option name="timeStamp" value="222" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Date/Sep28th2019/Leetcode56.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="223" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Date/Sep28th2019/Leetcode56.java</url>
+          <line>91</line>
+          <properties />
+          <option name="timeStamp" value="224" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Date/Sep28th2019/Leetcode56.java</url>
+          <line>78</line>
+          <properties />
+          <option name="timeStamp" value="225" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Date/Oct/Oct4th2019/Leetcode297.java</url>
+          <line>65</line>
+          <properties />
+          <option name="timeStamp" value="239" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Date/Oct/Oct4th2019/Leetcode297.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="240" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Date/Oct/Oct5th2019/Leetcode449.java</url>
+          <line>58</line>
+          <properties />
+          <option name="timeStamp" value="242" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Date/Oct/Oct14th2019/Leetcode1124.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="256" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Date/Oct/Oct14th2019/Leetcode1124.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="257" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Date/Oct/Oct15th2019/Leetcode146.java</url>
+          <line>111</line>
+          <properties />
+          <option name="timeStamp" value="268" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Date/Oct/Oct15th2019/Leetcode146.java</url>
+          <line>110</line>
+          <properties />
+          <option name="timeStamp" value="269" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Date/Oct/Oct17th2019/Leetcode4.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="302" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Date/Oct/Oct20th2019/Leetcode5.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="306" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Date/Oct/Ock21th2019/Leetcode42.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="314" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Date/Oct/Oct24th2019/Leetcode407.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="317" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Date/Oct/Oct24th2019/Leetcode407.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="318" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Date/Oct/Oct24th2019/Leetcode15.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="320" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Date/Oct/Oct25th2019/Leetcode20.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="321" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Date/Oct/Oct27th2019/Leetcode239.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="326" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Date/Oct/Oct27th2019/Leetcode289.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="330" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Date/Oct/Oct27th2019/Leetcode289.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="331" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Date/Oct/Oct27th2019/Leetcode297.java</url>
+          <line>62</line>
+          <properties />
+          <option name="timeStamp" value="332" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Date/Oct/Oct28th2019/Leetcode22.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="335" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Date/Oct/Oct28th2019/Leetcode11.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="336" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Date/Oct/Oct30th2019/Leetcode380.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="339" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Date/Nov/Nov3rd2019/Leetcode98.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="350" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Date/Nov/Nov10th2019/Leetcode332.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="352" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Date/Dec/Dec7th2019/Leetcode215.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="359" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Date/Dec/Dec7th2019/Leetcode215.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="360" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Date/Mar/Singleton.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="388" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Date/Mar/Leetcode5178.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="392" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Date/Mar/Leetcode1286.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="396" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Date/Mar/Leetcode1286.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="397" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Date/Mar/Leetcode5195.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="398" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="400" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/lang/AbstractStringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19280">
+          <caret line="1002" column="33" lean-forward="false" selection-start-line="1002" selection-start-column="33" selection-end-line="1002" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Date/Mar/Leetcode5370.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1660">
+          <caret line="83" column="19" lean-forward="true" selection-start-line="83" selection-start-column="19" selection-end-line="83" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Date/Mar/Offer40.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Date/Mar/Leetcode365.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="43" lean-forward="false" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Date/Mar/Leetcode5178.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="42" column="45" lean-forward="false" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Date/Mar/Maxituan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="60" column="51" lean-forward="false" selection-start-line="60" selection-start-column="51" selection-end-line="60" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Date/Mar/Leetcode71.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="46" column="28" lean-forward="false" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5800">
+          <caret line="290" column="18" lean-forward="false" selection-start-line="290" selection-start-column="18" selection-end-line="290" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/lang/AbstractStringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20040">
+          <caret line="1002" column="33" lean-forward="false" selection-start-line="1002" selection-start-column="33" selection-end-line="1002" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38020">
+          <caret line="1901" column="37" lean-forward="false" selection-start-line="1901" selection-start-column="37" selection-end-line="1901" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20220">
+          <caret line="1011" column="29" lean-forward="false" selection-start-line="1011" selection-start-column="21" selection-end-line="1011" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Date/Mar/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13520">
+          <caret line="676" column="23" lean-forward="false" selection-start-line="676" selection-start-column="23" selection-end-line="676" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/lang/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109740">
+          <caret line="5487" column="23" lean-forward="false" selection-start-line="5487" selection-start-column="23" selection-end-line="5487" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Date/Mar/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="37" column="37" lean-forward="true" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Date/Mar/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/lang/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109740">
+          <caret line="5487" column="23" lean-forward="true" selection-start-line="5487" selection-start-column="23" selection-end-line="5487" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/lang/CharacterData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Date/Mar/Leetcode8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/lang/CharacterData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="29" column="20" lean-forward="false" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/lang/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109740">
+          <caret line="5487" column="23" lean-forward="false" selection-start-line="5487" selection-start-column="23" selection-end-line="5487" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Date/Mar/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13520">
+          <caret line="676" column="23" lean-forward="false" selection-start-line="676" selection-start-column="23" selection-end-line="676" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Date/Mar/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="37" column="37" lean-forward="false" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2416">
+          <caret line="274" column="12" lean-forward="false" selection-start-line="274" selection-start-column="8" selection-end-line="274" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Date/Mar/Offer40.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="14" lean-forward="false" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Date/Mar/Leetcode365.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="43" lean-forward="false" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19160">
+          <caret line="1011" column="29" lean-forward="false" selection-start-line="1011" selection-start-column="21" selection-end-line="1011" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Date/Mar/Leetcode5178.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="42" column="45" lean-forward="false" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="56" column="60" lean-forward="false" selection-start-line="56" selection-start-column="50" selection-end-line="56" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36840">
+          <caret line="1901" column="37" lean-forward="false" selection-start-line="1901" selection-start-column="37" selection-end-line="1901" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/lang/AbstractStringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19280">
+          <caret line="1002" column="33" lean-forward="false" selection-start-line="1002" selection-start-column="33" selection-end-line="1002" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5220">
+          <caret line="290" column="18" lean-forward="false" selection-start-line="290" selection-start-column="18" selection-end-line="290" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Date/Mar/Leetcode954.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="24" lean-forward="false" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Date/Mar/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Date/Mar/Leetcode71.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="820">
+          <caret line="41" column="5" lean-forward="false" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Date/Mar/Maxituan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="51" column="13" lean-forward="false" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Date/Mar/Leetcode987.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="940">
+          <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Date/Mar/Leetcode5368.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="12" column="62" lean-forward="false" selection-start-line="12" selection-start-column="62" selection-end-line="12" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Date/Mar/Point.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1262">
+          <caret line="490" column="13" lean-forward="false" selection-start-line="490" selection-start-column="13" selection-end-line="490" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Date/Mar/MyIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1820">
+          <caret line="96" column="16" lean-forward="false" selection-start-line="96" selection-start-column="16" selection-end-line="96" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Date/Mar/Leetcode1286.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="57" column="25" lean-forward="false" selection-start-line="57" selection-start-column="25" selection-end-line="57" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#843#844#0" expanded="true" />
+            <element signature="e#881#882#0" expanded="true" />
+            <element signature="e#913#914#0" expanded="true" />
+            <element signature="e#953#954#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Date/Mar/Leetcode5195.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="30" column="22" lean-forward="false" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28020">
+          <caret line="1401" column="19" lean-forward="false" selection-start-line="1401" selection-start-column="19" selection-end-line="1401" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Date/Mar/Leetcode5383.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="28" column="18" lean-forward="false" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Date/Mar/Leetcod35382.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Date/Mar/Leetcode450.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Date/Mar/Leetcode5370.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="83" column="19" lean-forward="false" selection-start-line="83" selection-start-column="19" selection-end-line="83" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Date/Mar/Leetcode5369.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="35" column="17" lean-forward="false" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/util/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="53" column="17" lean-forward="false" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
